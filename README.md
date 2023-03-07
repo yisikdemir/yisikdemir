@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Web Development and Algorithms**
 
-- 📫 How to reach me **yemreisikdemir@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yisikdemir/)
