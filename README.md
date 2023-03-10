@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yisikdemir&label=Profile%20views&color=0e75b6&style=flat" alt="yisikdemir" /> </p>
 
-- 🌱 I’m currently learning **Big Data and Cloud Computing**
+- 🌱 I’m currently researching on **Big Data and NLP**
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Web Development and Algorithms**
 
