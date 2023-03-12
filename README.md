@@ -29,7 +29,7 @@
 <h3 align="left">Big Data:</h3>
 <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hadoop-logo-608148F581-seeklogo.com.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://hive.apache.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1000px-Apache_Hive_logo.svg.png" alt="aws" width="40" height="40"/> </a> 
- <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="http://www.dataversity.net/wp-content/uploads/2015/06/spark-logo.png" alt="aws" width="40" height="40"/> </a> 
+ <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="http://www.dataversity.net/wp-content/uploads/2015/06/spark-logo.png" alt="aws" width="40" height="40"/> </a> <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://uploads-ssl.webflow.com/62038ffc9cd2db4558e3c7b7/623b44a1913c46041e39c836_kafka.svg" alt="aws" width="40" height="40"/> </a> 
 
 <h3 align="left">Frameworks:</h3>
 
