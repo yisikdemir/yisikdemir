@@ -33,4 +33,42 @@
 
 <h3 align="left">Frameworks:</h3>
 
- <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/flask.png" alt="flask" width="40" height="40" /> </a><a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png?20200317115153" alt="matlab" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="react" width="40" height="40"/> </a> 
+ <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/344/flask.png" alt="flask" width="40" height="40" /> </a><a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png?20200317115153" alt="matlab" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://huggingface.co" target="_blank" rel="noreferrer"> <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="react" width="40" height="40"/> </a>
+ 
+ 
+<br>
+ 
+### <h2>:mortar_board: My Research Papers </h2>
+ 
+<table>
+  <tr>
+    <td align=center></td>
+    <td>Type</td>
+    <td>Paper</td>
+    <td>Domain</td>
+  </tr>
+  <tr>
+    <td align=center>1.</td>
+    <td>SCIE</td>
+    <td>
+      <a href="https://downloads.hindawi.com/journals/cin/2022/5186144.pdf">The scalable fuzzy inference-based ensemble method for sentiment analysis</a>
+    </td>
+    <td>Natural Language Processing</td>
+  </tr>
+  <tr>
+    <td align=center>2.</td>
+    <td>IEEE Conference</td>
+    <td>
+      <a href="https://ieeexplore.ieee.org/abstract/document/9987083">Fuzzy Inference and Machine Learning Based HVAC Control System for Smart Buildings</a>
+    </td>
+    <td>Fuzzy Inference - Machine Learning</td>
+  </tr>
+  <tr>
+    <td align=center>3.</td>
+    <td>International</td>
+    <td>
+      <a href="https://dergipark.org.tr/en/download/article-file/1582359">A Mobile Robot Application for Constructing Semantic and Metric Maps of Search and Rescue Arenas with Point-Based Deep Learning </a>
+    </td>
+    <td>Computer Vision</td>
+  </tr>
+</table>
