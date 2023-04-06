@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <div style="text-align: justify">
-As an experienced data scientist and AI researcher, I currently hold the positions of a data scientist and R&D team lead. Additionally, I am pursuing a Master of Science degree in Computer Engineering/Computer Science at Hacettepe University. With over six years of practical experience in the field, I have developed proficiency in a diverse range of data science techniques and technologies, including natural language processing, time series analysis, predictive maintenance, anomaly detection, and recommender systems. My contributions to the scientific community are evident through my publication of research papers in reputable journals. My area of expertise lies in the utilization of advanced analytical and statistical methods to extract insights from complex, large-scale data sets. Furthermore, I specialize in developing cutting-edge AI models to solve real-world problems.
+I'm a data scientist and R&D team lead with 6+ years of experience in diverse data science techniques and technologies, such as NLP, time series analysis, anomaly detection, predictive maintenance, and recommender systems. I'm pursuing a Master's degree in Computer Engineering/Computer Science from Hacettepe University and have published research papers in reputable journals. I specialize in utilizing advanced analytical and statistical methods to extract insights from large-scale data sets and developing cutting-edge AI models to solve real-world problems.
 </div>
 
 <h3 align="left">Connect with me:</h3>
