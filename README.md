@@ -6,10 +6,6 @@
 As an experienced data scientist and AI researcher, I currently hold the positions of a data scientist and R&D team lead. Additionally, I am pursuing a Master of Science degree in Computer Engineering/Computer Science at Hacettepe University. With over six years of practical experience in the field, I have developed proficiency in a diverse range of data science techniques and technologies, including natural language processing, time series analysis, predictive maintenance, anomaly detection, and recommender systems. My contributions to the scientific community are evident through my publication of research papers in reputable journals. My area of expertise lies in the utilization of advanced analytical and statistical methods to extract insights from complex, large-scale data sets. Furthermore, I specialize in developing cutting-edge AI models to solve real-world problems.
 </div>
 
-- 🌱 I’m currently researching on **State-of-the-Art NLP**
-
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, Web Development and Algorithms**
-
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedln_account](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yisikdemir/)
