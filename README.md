@@ -1,14 +1,12 @@
-<div style="text-align: right">
+<h1 align="center">Hi 👋, I'm Yunus Emre Isikdemir</h1>
+<h3 style="text-align: left;">Data Scientist and AI Researcher</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<div style="text-align: justify">
 As an experienced data scientist and AI researcher, I currently hold the positions of a data scientist and R&D team lead. Additionally, I am pursuing a Master of Science degree in Computer Engineering/Computer Science at Hacettepe University. With over six years of practical experience in the field, I have developed proficiency in a diverse range of data science techniques and technologies, including natural language processing, time series analysis, predictive maintenance, anomaly detection, and recommender systems. My contributions to the scientific community are evident through my publication of research papers in reputable journals. My area of expertise lies in the utilization of advanced analytical and statistical methods to extract insights from complex, large-scale data sets. Furthermore, I specialize in developing cutting-edge AI models to solve real-world problems.
 </div>
 
-<h1 align="center">Hi 👋, I'm Yunus Emre Isikdemir</h1>
-<h3 align="Left">Data Scientist and AI Researcher</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yisikdemir&label=Profile%20views&color=0e75b6&style=flat" alt="yisikdemir" /> </p>
-
-- 🌱 I’m currently researching on **Big Data and NLP**
+- 🌱 I’m currently researching on **State-of-the-Art NLP**
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Web Development and Algorithms**
 
