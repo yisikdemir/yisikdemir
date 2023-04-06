@@ -39,36 +39,4 @@
 <br>
  
 ### <h2>:mortar_board: My Research Papers </h2>
- 
-<table>
-  <tr>
-    <td align=center></td>
-    <td>Type</td>
-    <td>Paper</td>
-    <td>Domain</td>
-  </tr>
-  <tr>
-    <td align=center>1.</td>
-    <td>SCIE</td>
-    <td>
-      <a href="https://downloads.hindawi.com/journals/cin/2022/5186144.pdf">The scalable fuzzy inference-based ensemble method for sentiment analysis</a>
-    </td>
-    <td>Natural Language Processing</td>
-  </tr>
-  <tr>
-    <td align=center>2.</td>
-    <td>IEEE Conference</td>
-    <td>
-      <a href="https://ieeexplore.ieee.org/abstract/document/9987083">Fuzzy Inference and Machine Learning Based HVAC Control System for Smart Buildings</a>
-    </td>
-    <td>Fuzzy Inference - Machine Learning</td>
-  </tr>
-  <tr>
-    <td align=center>3.</td>
-    <td>International</td>
-    <td>
-      <a href="https://dergipark.org.tr/en/download/article-file/1582359">A Mobile Robot Application for Constructing Semantic and Metric Maps of Search and Rescue Arenas with Point-Based Deep Learning </a>
-    </td>
-    <td>Computer Vision</td>
-  </tr>
-</table>
+<table> <tr> <td align=center></td> <td>Type</td> <td>Paper</td> <td>Domain</td> </tr> <tr> <td align=center>1.</td> <td>SCIE</td> <td> <a href="https://downloads.hindawi.com/journals/cin/2022/5186144.pdf">The scalable fuzzy inference-based ensemble method for sentiment analysis</a> </td> <td>Natural Language Processing</td> </tr> <tr> <td align=center>2.</td> <td>IEEE Conference</td> <td> <a href="https://ieeexplore.ieee.org/abstract/document/9987083">Fuzzy Inference and Machine Learning Based HVAC Control System for Smart Buildings</a> </td> <td>Fuzzy Inference - Machine Learning</td> </tr> <tr> <td align=center>3.</td> <td>International Journal</td> <td> <a href="https://dergipark.org.tr/en/download/article-file/1582359">A Mobile Robot Application for Constructing Semantic and Metric Maps of Search and Rescue Arenas with Point-Based Deep Learning </a> </td> <td>Computer Vision</td> </tr>
