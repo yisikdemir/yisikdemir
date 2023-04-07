@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Isikdemir</h1>
 <h3 style="text-align: left;">Data Scientist and AI Researcher</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div style="text-align: justify">
+
+<div style="margin-right: 20px;">
+<p align="justify" style="margin-right: 20px;">
 I'm a data scientist and R&D team lead with 6+ years of self-experienced in diverse data science techniques and technologies, such as NLP, time series analysis, anomaly detection, predictive maintenance, and recommender systems. I'm pursuing a Master's degree in Computer Engineering/Computer Science from Hacettepe University and have published research papers in reputable journals. I specialize in utilizing advanced analytical and statistical methods to extract insights from large-scale data sets and developing cutting-edge AI models to solve real-world problems.
+</p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
