@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Isikdemir</h1>
-<h3 style="text-align: left;">Data Scientist and AI Researcher</h3>
+<h3 style="text-align: left;">Data Scientist and AI Software Engineer</h3>
 
 
 <div style="margin-right: 20px;">
