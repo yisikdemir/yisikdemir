@@ -4,7 +4,7 @@
 
 <div style="margin-right: 20px;">
 <p align="justify" style="margin-right: 20px;">
-I'm a data scientist and AI-based software developer with 7+ years of self-experienced in diverse data science techniques and technologies, such as NLP, time series analysis, anomaly detection, predictive maintenance, and recommender systems. I'm pursuing a Master's degree in Computer Engineering/Computer Science from Hacettepe University and have published research papers in reputable journals. I specialize in utilizing advanced analytical and statistical methods to extract insights from large-scale data sets and developing cutting-edge AI models to solve real-world problems.
+I'm a Data scientist and Software developer with 7+ years of self-experienced in diverse data science techniques and technologies, such as NLP, time series analysis, anomaly detection, predictive maintenance, and recommender systems. I'm pursuing a Master's degree in Computer Engineering/Computer Science from Hacettepe University and have published research papers in reputable journals. I specialize in utilizing advanced analytical and statistical methods to extract insights from large-scale data sets and developing cutting-edge AI models to solve real-world problems.
 </p>
 </div>
 
